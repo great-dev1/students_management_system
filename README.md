@@ -18,7 +18,7 @@ This is a test task for the student management system which has been published o
    ```sh
    scoop bucket add supabase https://github.com/supabase/scoop-bucket.git
    scoop install supabase
-    scoop install deno
+   scoop install deno
    ```
 4. Clone the project from Git
    ```sh
